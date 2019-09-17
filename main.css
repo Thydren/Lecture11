@@ -1,0 +1,36 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+button {
+    background: purple;
+    border-radius: 50%;
+    border: 2px solid white;
+    color: red;
+    font-size: 10px;
+    margin: 1em;
+    height: 50px;
+    width: 50px;
+    box-shadow: 28px 36px 46px 7px rgba(173,107,174,0.69);
+-webkit-box-shadow: 28px 36px 46px 7px rgba(173,107,174,0.69);
+-moz-box-shadow: 28px 36px 46px 7px rgba(173,107,174,0.69);
+}
+
+div {
+    border: solid;
+    border-color: aqua;
+}
+
+div p {
+    border: dashed;
+    border-color: blueviolet;
+    margin: 1em;
+    padding: 2em;
+    font-size: 20px;
+}
+
+p {
+    border: double;
+    border-color: deeppink;
+}
